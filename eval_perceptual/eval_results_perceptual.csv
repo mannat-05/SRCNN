@@ -1,0 +1,6 @@
+image,psnr,ssim,sr_path,lr_path
+sample1.jpeg,26.138607025146484,0.9870331883430481,Outputs\eval_perceptual\sample1_perceptual_sr.png,Outputs\eval_perceptual\lr\sample1_perceptual_lr.png
+sample2.jpeg,28.268526077270508,0.9817855358123779,Outputs\eval_perceptual\sample2_perceptual_sr.png,Outputs\eval_perceptual\lr\sample2_perceptual_lr.png
+sample3.jpeg,37.09659194946289,0.997437596321106,Outputs\eval_perceptual\sample3_perceptual_sr.png,Outputs\eval_perceptual\lr\sample3_perceptual_lr.png
+sample4.jpeg,31.006568908691406,0.993911623954773,Outputs\eval_perceptual\sample4_perceptual_sr.png,Outputs\eval_perceptual\lr\sample4_perceptual_lr.png
+sample5.jpeg,30.038774490356445,0.9905069470405579,Outputs\eval_perceptual\sample5_perceptual_sr.png,Outputs\eval_perceptual\lr\sample5_perceptual_lr.png

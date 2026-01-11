@@ -1,0 +1,6 @@
+image,psnr,ssim,sr_path,lr_path
+sample1.jpeg,25.653461456298828,0.9856261610984802,Outputs\eval\sample1_sr.png,Outputs\eval\lr\sample1_lr.png
+sample2.jpeg,27.585399627685547,0.9794986248016357,Outputs\eval\sample2_sr.png,Outputs\eval\lr\sample2_lr.png
+sample3.jpeg,35.17231750488281,0.99647057056427,Outputs\eval\sample3_sr.png,Outputs\eval\lr\sample3_lr.png
+sample4.jpeg,30.129940032958984,0.9928608536720276,Outputs\eval\sample4_sr.png,Outputs\eval\lr\sample4_lr.png
+sample5.jpeg,28.016925811767578,0.9869301915168762,Outputs\eval\sample5_sr.png,Outputs\eval\lr\sample5_lr.png
